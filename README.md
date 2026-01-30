@@ -61,11 +61,12 @@ Follow these steps to run the project locally:
 
 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/navbar-project.git
+git clone https://github.com/codexa-devhq/Responsive-navbar.git
 Navigate to the project folder
 
 cd navbar-project
 Open index.html in your browser.
+
 
 
 
