@@ -51,7 +51,7 @@ This project focuses on building a **reusable, responsive, and user-friendly nav
 
 ## 🔗 Live Demo
 
-👉 https://your-username.github.io/Responsive-navbar/
+👉 https://codexa-devhq.github.io/Responsive-navbar/
 
 ---
 
@@ -66,6 +66,7 @@ Navigate to the project folder
 
 cd navbar-project
 Open index.html in your browser.
+
 
 
 
