@@ -30,31 +30,6 @@ This project focuses on building a **reusable, responsive, and user-friendly nav
 
 ---
 
-## 📂 Project Structure
-
-navbar-project/
-│
-├── index.html # Main HTML file
-├── style.css # Styles and responsive layout
-├── script.js # Navbar interaction logic
-└── README.md # Project documentation
-
-
----
-
-## 🚀 Getting Started
-
-Follow these steps to run the project locally:
-
-1. Clone the repository  
-```bash
-git clone https://github.com/your-username/navbar-project.git
-2. Navigate to the project folder
-cd navbar-project
-3. Open index.html in your browser
-
-
-
 🎯 Use Cases
 Company websites
 Portfolio projects
@@ -70,5 +45,39 @@ Convert into a reusable React component
 Add dark mode support
 
 
-📄 License
-This project is open-source and available under the MIT License.
+
+## 📂 Project Structure
+
+navbar-project/
+│
+├── index.html # Main HTML file
+├── style.css # Styles and responsive layout
+├── script.js # Navbar interaction logic
+└── README.md # Project documentation
+
+📌 Rule:
+Anything that looks like a folder/tree MUST be inside
+
+
+---
+
+### 🔧 FIX 2: Getting Started section
+
+Replace it with this **clean version**:
+
+```md
+## 🚀 Getting Started
+
+Follow these steps to run the project locally:
+
+1. Clone the repository
+```bash
+git clone https://github.com/your-username/navbar-project.git
+Navigate to the project folder
+
+cd navbar-project
+Open index.html in your browser
+
+
+
+
