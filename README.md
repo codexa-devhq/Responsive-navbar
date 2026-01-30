@@ -57,15 +57,45 @@ This project focuses on building a **reusable, responsive, and user-friendly nav
 
 ## 🚀 Getting Started
 
-Follow these steps to run the project locally:
+You can run this project on your computer in **two easy ways**.  
+Choose the option that feels comfortable for you.
 
-1. Clone the repository
+---
+
+## 🔰 Option 1: Run Without Git (Recommended for Beginners)
+
+This is the **easiest method**. No Git or commands required.
+
+### Steps
+1. Click the green **Code** button on this repository  
+2. Select **Download ZIP**  
+3. Extract the ZIP file  
+4. Open the extracted **Responsive-navbar** folder  
+5. Double-click **index.html**
+
+✅ The navbar will open in your browser.
+
+📌 Tip: After editing files, just refresh the browser to see changes.
+
+---
+
+## 🧑‍💻 Option 2: Run Using Git (For Learners & Developers)
+
+Use this option if you want to practice Git.
+
+### Steps
+1. Install Git from https://git-scm.com/  
+2. Open **Command Prompt / Terminal**
+3. Run:
+
 ```bash
 git clone https://github.com/codexa-devhq/Responsive-navbar.git
-Navigate to the project folder
+cd Responsive-navbar
+Open index.html in your browser
+or open the folder in VS Code and use Live Server
 
-cd navbar-project
-Open index.html in your browser.
+
+
 
 
 
