@@ -65,7 +65,8 @@ git clone https://github.com/your-username/navbar-project.git
 Navigate to the project folder
 
 cd navbar-project
-Open index.html in your browser
+Open index.html in your browser.
+
 
 
 
