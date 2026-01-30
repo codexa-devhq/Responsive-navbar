@@ -52,11 +52,10 @@ This project focuses on building a **reusable, responsive, and user-friendly nav
 ## 📂 Project Structure
 
 navbar-project/
-│
-├── index.html # Main HTML file
-├── style.css # Styles and responsive layout
-├── script.js # Navbar interaction logic
-└── README.md # Project documentation
+── index.html   # Main HTML file
+── style.css    # Styles and responsive layout
+── script.js    # Navbar interaction logic
+── README.md    # Project documentation
 
 📌 Rule:
 Anything that looks like a folder/tree MUST be inside
@@ -76,6 +75,7 @@ Navigate to the project folder
 
 cd navbar-project
 Open index.html in your browser
+
 
 
 
