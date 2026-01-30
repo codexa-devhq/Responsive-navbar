@@ -49,23 +49,11 @@ This project focuses on building a **reusable, responsive, and user-friendly nav
 
 ---
 
-## 📂 Project Structure
+## 🔗 Live Demo
 
-navbar-project/
-│
-├── index.html # Main HTML file
-├── style.css # Styles and responsive layout
-├── script.js # Navbar interaction logic
-└── README.md # Project documentation
-
-
-
-📌 Rule:
-Anything that looks like a folder/tree MUST be inside
-
+👉 https://your-username.github.io/Responsive-navbar/
 
 ---
-
 
 ## 🚀 Getting Started
 
@@ -78,6 +66,7 @@ Navigate to the project folder
 
 cd navbar-project
 Open index.html in your browser
+
 
 
 
