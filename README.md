@@ -30,21 +30,24 @@ This project focuses on building a **reusable, responsive, and user-friendly nav
 
 ---
 
-🎯 Use Cases
+## 🎯 Use Cases
+
 - Company websites
 - Portfolio projects
 - Landing pages
 - Admin dashboards
 - Educational frontend projects
 
+---
 
-🔮 Future Improvements
+## 🔮 Future Improvements
+
 - Add animation effects
 - Iplement accessibility (ARIA labels)
 - Convert into a reusable React component
 - Add dark mode support
 
-
+---
 
 ## 📂 Project Structure
 
@@ -61,11 +64,7 @@ Anything that looks like a folder/tree MUST be inside
 
 ---
 
-### 🔧 FIX 2: Getting Started section
 
-Replace it with this **clean version**:
-
-```md
 ## 🚀 Getting Started
 
 Follow these steps to run the project locally:
@@ -77,6 +76,7 @@ Navigate to the project folder
 
 cd navbar-project
 Open index.html in your browser
+
 
 
 
